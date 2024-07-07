@@ -1,0 +1,45 @@
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.exe
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.deps.json
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.runtimeconfig.json
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.dll
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.pdb
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.csproj.AssemblyReference.cache
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.AssemblyInfoInputs.cache
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.AssemblyInfo.cs
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.csproj.CoreCompileInputs.cache
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.dll
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\refint\algoritma ödevi.dll
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.pdb
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.genruntimeconfig.cache
+C:\Users\MCB\source\repos\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\ref\algoritma ödevi.dll
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.exe
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.deps.json
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.runtimeconfig.json
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.dll
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.pdb
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.csproj.AssemblyReference.cache
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.AssemblyInfoInputs.cache
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.AssemblyInfo.cs
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.csproj.CoreCompileInputs.cache
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.dll
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\refint\algoritma ödevi.dll
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.pdb
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.genruntimeconfig.cache
+C:\Users\MCB\Desktop\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\ref\algoritma ödevi.dll
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.exe
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.deps.json
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.runtimeconfig.json
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.dll
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\bin\Debug\net6.0\algoritma ödevi.pdb
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.csproj.AssemblyReference.cache
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.AssemblyInfoInputs.cache
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.AssemblyInfo.cs
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.csproj.CoreCompileInputs.cache
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.dll
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\refint\algoritma ödevi.dll
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.pdb
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\algoritma ödevi.genruntimeconfig.cache
+C:\Users\MCB\Desktop\Ders notları\2.sınıf\c# aykut güven\algoritma ödevi\algoritma ödevi\obj\Debug\net6.0\ref\algoritma ödevi.dll
